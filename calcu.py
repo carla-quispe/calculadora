@@ -1,7 +1,6 @@
-from math import *
 from tkinter import *
+from math import *
 import parser
-
 
 root = Tk()
 root.iconbitmap("./icono.ico")
